@@ -1,0 +1,6 @@
+.router-link-active {
+    color: rgb(173,158,103) !important;
+}
+a:-webkit-any-link {
+    cursor: pointer;
+}
