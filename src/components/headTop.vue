@@ -10,7 +10,7 @@
         <li><router-link to="/page3">新金零售</router-link></li>
         <li><router-link to="/page4">新金制造</router-link></li>
         <li><router-link to="/page5">历史长廊</router-link></li>
-        <li><router-link to="/page6/connect">联系我们</router-link></li>
+        <li><router-link to="/page6">联系我们</router-link></li>
       </ul>
     </div>
     <div class="main"></div>

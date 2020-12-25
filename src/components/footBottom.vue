@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="footer">
     <nav class="link">
       <span>友情链接</span>
       <a href="http://www.gold.org/" target="_blank">世界黄金协会</a>
